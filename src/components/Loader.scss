@@ -1,0 +1,94 @@
+.loader {
+  box-sizing: border-box;
+  max-height: 800px;
+  max-width: 950px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 55px;
+  padding-top: 30px;
+
+  @media screen and (min-width: 790px) {
+    flex-direction: row;
+    max-height: 500px;
+    padding-top: 20px;
+    gap: 30px;
+  }
+
+  &__box {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(237, 232, 232);
+    display: flex;
+    align-items: center;
+    border-radius: 10%;
+
+    &-img {
+      height: 200px;
+      width: 200px;
+      background-image: url(../images/fatty-corgi-EpRAM95thHU-unsplash.jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      @media screen and (min-width: 790px) {
+        height: 250px;
+        width: 250px;
+      }
+    }
+
+    @media screen and (min-width: 790px) {
+      height: 250px;
+      width: 250px;
+    }
+  }
+
+  &__box2 {
+    height: 150px;
+    width: 150px;
+
+    &-img2 {
+      height: 200px;
+      width: 200px;
+      background-image: url(../images/fatty-corgi-g-Dui8tCdrI-unsplash.jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      border-radius: 10%;
+
+      @media screen and (min-width: 790px) {
+        height: 250px;
+        width: 250px;
+      }
+    }
+
+    @media screen and (min-width: 790px) {
+      height: 250px;
+      width: 250px;
+    }
+  }
+
+  &__box3 {
+    height: 150px;
+    width: 150px;
+
+    &-img3 {
+      height: 200px;
+      width: 200px;
+      background-image: url(../images/fatty-corgi-wHgkrmuMFOY-unsplash.jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      border-radius: 10%;
+
+      @media screen and (min-width: 790px) {
+        height: 250px;
+        width: 250px;
+      }
+    }
+
+    @media screen and (min-width: 790px) {
+      height: 250px;
+      width: 250px;
+    }
+  }
+}

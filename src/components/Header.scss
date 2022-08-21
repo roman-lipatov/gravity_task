@@ -1,0 +1,29 @@
+.header {
+  height: 70px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: 5px solid rgb(231, 148, 88);
+  border-radius: 10px;
+  
+  &__title {
+    color: rgb(182, 66, 7);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    // padding-top: 10px;
+  }
+
+  &__img {
+    position: relative;
+    height: 30px;
+    width: 30px;
+    background-image: url(../images/corgi.svg);
+    background-size: 30px 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
