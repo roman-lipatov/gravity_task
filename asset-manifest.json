@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/gravity_task/static/css/main.96b78dd1.css",
+    "main.js": "/gravity_task/static/js/main.7ff72c20.js",
+    "static/js/787.0c3f432a.chunk.js": "/gravity_task/static/js/787.0c3f432a.chunk.js",
+    "static/media/fatty-corgi-g-Dui8tCdrI-unsplash.jpeg": "/gravity_task/static/media/fatty-corgi-g-Dui8tCdrI-unsplash.aa1030c86dc5b76e8dbb.jpeg",
+    "static/media/fatty-corgi-wHgkrmuMFOY-unsplash.jpeg": "/gravity_task/static/media/fatty-corgi-wHgkrmuMFOY-unsplash.220b87f7fbbdb05e9fcd.jpeg",
+    "static/media/fatty-corgi-EpRAM95thHU-unsplash.jpeg": "/gravity_task/static/media/fatty-corgi-EpRAM95thHU-unsplash.4a4f5a14d6adcdf5ab28.jpeg",
+    "static/media/corgi.svg": "/gravity_task/static/media/corgi.079efc1eef489a14fbf2.svg",
+    "index.html": "/gravity_task/index.html",
+    "main.96b78dd1.css.map": "/gravity_task/static/css/main.96b78dd1.css.map",
+    "main.7ff72c20.js.map": "/gravity_task/static/js/main.7ff72c20.js.map",
+    "787.0c3f432a.chunk.js.map": "/gravity_task/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b78dd1.css",
+    "static/js/main.7ff72c20.js"
+  ]
+}
